@@ -20,9 +20,9 @@ Clone the repo.
 
 Run the main file:
 
-	```
-	src/Cursors.io.au3
-	```
+```
+src/Cursors.io.au3
+```
 
 ## Authors
 
